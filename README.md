@@ -1,4 +1,4 @@
-<h1> Olá, eu sou Marfisa Barros e sou estudante de Análise e desenvolvimento de sistemas.</h1>
+<h1>  Análise e desenvolvimento de sistemas.</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91343682/233750791-e313ae8a-d3f6-401f-af6f-5bed50c29275.gif" alt="animated" />
